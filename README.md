@@ -81,6 +81,7 @@
 * [**Python**: _Let’s Build the Tiniest Blockchain_](https://medium.com/crypto-currently/lets-build-the-tiniest-blockchain-e70965a248b)
 * [**Ruby**: _Programming Blockchains Step-by-Step (Manuscripts Book Edition)_](https://github.com/yukimotopress/programming-blockchains-step-by-step)
 * [**TypeScript**: _Naivecoin: a tutorial for building a cryptocurrency_](https://lhartikk.github.io/)
+* [**TypeScript**: _NaivecoinStake: a tutorial for building a cryptocurrency with the Proof of Stake consensus_](https://naivecoinstake.learn.uno/)
 
 #### Build your own `Bot`
 
@@ -93,6 +94,7 @@
 * [**Node.js**: _Building A Simple AI Chatbot With Web Speech API And Node.js_](https://www.smashingmagazine.com/2017/08/ai-chatbot-web-speech-api-node-js/)
 * [**Python**: _Chatbot Fundamentals: An interactive guide to writing bots in Python_](https://apps.worldwritable.com/tutorials/chatbot/)
 * [**Python**: _How to Build Your First Slack Bot with Python_](https://www.fullstackpython.com/blog/build-first-slack-bot-python.html)
+* [**Python**: _How to build a Slack Bot with Python using Slack Events API & Django under 20 minute_](https://medium.com/freehunch/how-to-build-a-slack-bot-with-python-using-slack-events-api-django-under-20-minute-code-included-269c3a9bf64e)
 * [**Python**: _Build a Reddit Bot_](http://pythonforengineers.com/build-a-reddit-bot-part-1/)
 * [**Python**: _How To Make A Reddit Bot_](https://www.youtube.com/watch?v=krTUf7BpTc0) [video]
 * [**Python**: _How To Create a Telegram Bot Using Python_](https://khashtamov.com/en/how-to-create-a-telegram-bot-using-python/)
@@ -155,7 +157,7 @@
 * [**JavaScript**: _Build Your own Simplified AngularJS in 200 Lines of JavaScript_](https://blog.mgechev.com/2015/03/09/build-learn-your-own-light-lightweight-angularjs/)
 * [**JavaScript**: _Make Your Own AngularJS_](http://teropa.info/blog/2013/11/03/make-your-own-angular-part-1-scopes-and-digest.html)
 * [**JavaScript**: _How to write your own Virtual DOM_](https://medium.com/@deathmood/how-to-write-your-own-virtual-dom-ee74acc13060)
-* [**JavaScript**: _Building a frontend framework, from scratch, with components_](https://github.com/mfrachet/create-frontend-framework)
+* [**JavaScript**: _Building a frontend framework, from scratch, with components (templating, state, VDOM)_](https://mfrachet.github.io/create-frontend-framework/)
 
 #### Build your own `Game`
 
@@ -394,6 +396,7 @@
 * [**Node.js**: _Build a static site generator in 40 lines with Node.js_](https://medium.com/douglas-matoso-english/build-static-site-generator-nodejs-8969ebe34b22)
 * [**PHP**: _Write your own MVC from scratch in PHP_ ](https://chaitya62.github.io/2018/04/29/Writing-your-own-MVC-from-Scratch-in-PHP.html)
 * [**PHP**: _Make your own blog_](https://ilovephp.jondh.me.uk/en/tutorial/make-your-own-blog)
+* [**Python**: _Build a Deep Learning Library_](https://www.youtube.com/watch?v=o64FV-ez6Gw) [video]
 * [**Python**: _How to Build a Kick-Ass Mobile Document Scanner in Just 5 Minutes_](https://www.pyimagesearch.com/2014/09/01/build-kick-ass-mobile-document-scanner-just-5-minutes/)
 * [**Python**: _Continuous Integration System_](http://aosabook.org/en/500L/a-continuous-integration-system.html)
 * [**Python**: _Recommender Systems in Python: Beginner Tutorial_](https://www.datacamp.com/community/tutorials/recommender-systems-python)
@@ -402,6 +405,7 @@
 * [**Python**: _Stock Market Predictions with LSTM in Python_](https://www.datacamp.com/community/tutorials/lstm-python-stock-market)
 * [**Python**: _Build your own error-correction fountain code with Luby Transform Codes_](https://franpapers.com/en/algorithmic/2018-introduction-to-fountain-codes-lt-codes-with-python/)
 * [**Python**: _Building a simple Generative Adversial Network (GAN) using Tensorflow_](https://blog.paperspace.com/implementing-gans-in-tensorflow/)
+* [**Python**: _JSON Decoding Algorithm_](https://github.com/cheery/json-algorithm)
 * [**Ruby**: _A Pedometer in the Real World_](http://aosabook.org/en/500L/a-pedometer-in-the-real-world.html)
 * [**Ruby**: _Creating a Linux Desktop application with Ruby_](https://iridakos.com/tutorials/2018/01/25/creating-a-gtk-todo-application-with-ruby)
 * [**Rust**: _Let's build a browser engine_](https://limpet.net/mbrubeck/2014/08/08/toy-layout-engine-1.html)
